@@ -1,6 +1,8 @@
 ## Before you run this
 Before you try to run this script you will need [pyfirmata](https://pypi.python.org/pypi/pyFirmata) in your system, so that this python script can talk to your Arduino.
 
+To install pyfirmata, open a terminal and type `sudo pip install pyfirmata`.
+
 ## Running the script
 To run this script:
  * download it, store it somewhere in your desktop.
